@@ -24,7 +24,7 @@ h1 {
     padding:10px ;
     color: white;
     padding-top: 5px;
-    font-family: 'bebas neue' ,cursive; 
+    font-family: 'Bebas Neue' ,cursive; 
 }
 
 h2 {
@@ -62,13 +62,13 @@ img:hover{
     margin-top: 300px;
     font-size: 50px;
     text-align: center;
-    font-family: 'bebas neue' ,cursive;
+    font-family: 'Bebas Neue' ,cursive;
 }
 
 .persona p {
     text-align: justify;
     font-size: 25px;
-    font-family: 'bebas neue';
+    font-family: 'Bebas Neue';
     color: white;
     margin: 10px;
     padding-top: 40px;
